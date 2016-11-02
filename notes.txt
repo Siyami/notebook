@@ -1,15 +1,34 @@
+# list all the files and directories in the CWD
 ll
-rm fish_notes.backup fish_notes.txt sorted_notes.txt 
+rm fish_notes.backup fish_notes.txt sorted_notes.txt
 pwd
 cd projects/week01/notebook/
+
+# clears terminal
 clear
+
+# goes back to home directory
 cd
+
+# upload files to surge.sh
 surge
+
+# change directory to projects/week01/siyami.surge.sh/
 cd projects/week01/siyami.surge.sh/
+
+# commit and add a note, files move to master
 git commit -m 'add css file and moreaboutme.html file'
+
+# shows current status of git
 git status
+
+# adds current directory
 git add .
+
+# opens index.html file
 open index.html
+
+opens current inside atom
 atom .
 cd siyami.surge.sh
 cd projects/week01
@@ -42,7 +61,7 @@ cd memberships/
 open hint8
 open hint7
 grep -A 5 "L337" mystery/vehicles
-head -n 20 vehicles 
+head -n 20 vehicles
 open hint6
 head -n 20 people
 open hint1
@@ -51,7 +70,7 @@ grep "Blue" vehicles
 grep "Honda" vehicles
 less interview-699607
 less interview-47246024
-less 
+less
 cd interviews/
 less interviews/
 cat interviews/
@@ -75,32 +94,32 @@ open cheatsheet.pdf
 grep "CLUE" crimescene
 open hint2
 open hunt2
-open cheatsheet.md 
+open cheatsheet.md
 cd..
 nano cheatsheet.md
-less crimescene 
-cat crimescene 
+less crimescene
+cat crimescene
 less streets
 less streets/
 less vehicles
 less vehicles | sort | grep '6'
 less vehicles | grep 6
-less vehicles 
-less people 
-cat people | grep M 
+less vehicles
+less people
+cat people | grep M
 cat people
 cd people
-less instructions 
-less README.md 
+less instructions
+less README.md
 git clone https://github.com/Siyami/clmystery.git
 git clone https://github.com/gSchool/wd-javascript-fundamentals.git
-less fish_notes.backup 
-cat fish_notes.backup 
+less fish_notes.backup
+cat fish_notes.backup
 cp fish_notes.txt fish_notes.backup
 mv notes.txt fish_notes.txt
 less sorted_notes.txt mv notes.txt fish_notes.txt
-less sorted_notes.txt 
-ll sorted_notes.txt 
+less sorted_notes.txt
+ll sorted_notes.txt
 cat notes.txt | sort > sorted_notes.txt
 cat notes.txt | sort | grep
 cat notes.txt
@@ -190,7 +209,7 @@ echo $EDITOR
 atom ~/.config/fish/config.fish
 atom ~/Downloads
 brew in fish
-brew info 
+brew info
 brew info fish
 fish_update_completions
 curl -fsSL https://git.io/vXOeC | ruby
@@ -211,7 +230,7 @@ cd Projects
 whomi
 open http://wcrusher.surge.sh
 git commit -m 'Add a CNAME'
-git add CNAME 
+git add CNAME
 cd wcrusher.surge.sh
 mkdir wcrusher.surge.sh
 curl -fsSL https://git.io/vKZJ8 | sh
