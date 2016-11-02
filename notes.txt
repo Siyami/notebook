@@ -1,0 +1,248 @@
+ll
+rm fish_notes.backup fish_notes.txt sorted_notes.txt 
+pwd
+cd projects/week01/notebook/
+clear
+cd
+surge
+cd projects/week01/siyami.surge.sh/
+git commit -m 'add css file and moreaboutme.html file'
+git status
+git add .
+open index.html
+atom .
+cd siyami.surge.sh
+cd projects/week01
+cat crimescene | grep 'CLUE'
+cd mystery/
+cd clmystery/
+cd ..
+cd Projects/week01/
+git commit -m 'add new text file'
+touch newest.txt
+git init
+touch new.txt
+la
+cd gittest
+mkdir gitTest
+cd Desktop/
+grep "Jacqui Maher" people
+cat AAA Delta_SkyMiles the_local_library Museum_of_Bash_History | grep -c "Jeremy Bowers"
+cat AAA Delta_SkyMiles the_local_library Museum_of_Bash_History | grep -c "Jacqui Maher"
+cat AAA Delta_SkyMiles local_library Museum_of_Bash_History | grep -c "Jacqui Maher"
+cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jacqui Maher"
+cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jeremy Bowers"
+cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Joe Germsuka"
+cat AAA Delta_SkyMiles | grep -c "Joe Germsuka"
+cat AAA | grep -c "Joe Germsuka"
+cat AAA | grep -c "John Smith"
+cat Fitness_Galaxy AAA United_MileagePlus | grep -c "Joe Germuska"
+cat Fitness_Galaxy AAA United_MileagePlus | grep -c "John Smith"
+cd memberships/
+open hint8
+open hint7
+grep -A 5 "L337" mystery/vehicles
+head -n 20 vehicles 
+open hint6
+head -n 20 people
+open hint1
+grep "L337" vehicles
+grep "Blue" vehicles
+grep "Honda" vehicles
+less interview-699607
+less interview-47246024
+less 
+cd interviews/
+less interviews/
+cat interviews/
+cat instructions
+open hint5
+head -n 40 streets/Hart_Place | tail -n 1
+head -n 179 streets/Buckingham_Place | tail -n 1
+head -n 38 streets/Buckingham_Place | tail -n 1
+head -n 38 streets/Buckingham_Placee | tail -n 1
+head -n 26 streets/Hart_Place | tail -n 1
+head -n 173 streets/Mattapan_Street | tail -n 1
+ls
+head -n 40 streets/Hart Place | tail -n 1
+cd streets/
+head -n 40 streets/Hart | tail -n 1
+head -n 40 streets/Mattapan_Street | tail -n 1
+open hint4
+grep "Annabel" people
+open hint3
+open cheatsheet.pdf
+grep "CLUE" crimescene
+open hint2
+open hunt2
+open cheatsheet.md 
+cd..
+nano cheatsheet.md
+less crimescene 
+cat crimescene 
+less streets
+less streets/
+less vehicles
+less vehicles | sort | grep '6'
+less vehicles | grep 6
+less vehicles 
+less people 
+cat people | grep M 
+cat people
+cd people
+less instructions 
+less README.md 
+git clone https://github.com/Siyami/clmystery.git
+git clone https://github.com/gSchool/wd-javascript-fundamentals.git
+less fish_notes.backup 
+cat fish_notes.backup 
+cp fish_notes.txt fish_notes.backup
+mv notes.txt fish_notes.txt
+less sorted_notes.txt mv notes.txt fish_notes.txt
+less sorted_notes.txt 
+ll sorted_notes.txt 
+cat notes.txt | sort > sorted_notes.txt
+cat notes.txt | sort | grep
+cat notes.txt
+cat notes.txt | sort
+history >> notes.txt
+history > notes.txt
+less notes.txt
+history
+fdfdf
+rm notes.txt
+touch notes.txt
+cd notebook/
+mkdir notebook
+rm motebook/
+mkdir motebook
+cd ~/Projects/week01
+tree
+cd /
+cd Library/
+cd Documents/
+cd Public/
+cd Public/ls
+cd Chrome\ Apps.localized/
+cd Chrome\ Apps.localized/Default\ fhbjgbiflinjbdggehcddcbncdddomop.app/Contents/Resources/ls
+cd Chrome\
+pwd
+cd Applications/
+cd ~
+tree -L 1 ~
+tree ~
+brew install tree
+echo ~
+open Desktop/
+open ~
+open .
+ls -R
+ls -r
+ls -Q
+ls -s
+man ls
+ls -G
+ls -o
+man
+ls -hal
+ls -hl
+ls -h
+ls -l
+groups
+whoami
+uname
+ls notes.txt
+cd ~/Library/cd ~/Downloads/
+ls -l ~/Documents/../
+cd ../
+tree -L 1
+$ tree -L 1
+week01 ~
+git commit -m 'add personal website'
+git add index.html
+cd week01
+which fish
+git commit -m 'add a CNAME'
+git add CNAME
+touch CNAME
+git commit -m 'Add a tiny web page'
+touch index.html
+mkdir siyami.surge.sh
+mkdir -p ~/Projects/week01
+surge -V
+npm install -g surge
+rm ~/Desktop/test.js
+node ~/Desktop/test.js
+atom ~/Desktop/test.js
+node
+node -v
+brew install node
+curl -fsSL https://git.io/vXOvh | sh
+cat ~/.gitconfig
+git config --global user.email 'siyamiavci@gmail.com'
+git config --global user.name 'Siyami Avci'
+brew doctor
+git --version
+brew install git
+which echo
+echo $PATH
+echo $EDITOR
+atom ~/.config/fish/config.fish
+atom ~/Downloads
+brew in fish
+brew info 
+brew info fish
+fish_update_completions
+curl -fsSL https://git.io/vXOeC | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+mn ls
+l
+rm newFolder/
+rm new.js
+touch new.js
+mkdir newFolder
+cd week1
+cd Projects
+~
+.
+whomi
+open http://wcrusher.surge.sh
+git commit -m 'Add a CNAME'
+git add CNAME 
+cd wcrusher.surge.sh
+mkdir wcrusher.surge.sh
+curl -fsSL https://git.io/vKZJ8 | sh
+git config --global user.name 'YOUR FULL NAME'
+brew in
+curl -fsSL https://git.io/vgqFU | ruby
+unlink atom
+unlink apm
+cd /usr/local/bin/
+brew cleanup
+brew outdated
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+git push
+git commit -m "added a ul list"
+git add -A
+git commit -m "added a list"
+git pull
+git commit -m "add app.js"
+git add app.js
+git push -A
+touch app.js
+7643Asdf
+git commit -m "added index.html"
+git clone https://github.com/Siyami/GitTest.git
+cd documents
+mkdir GitTest
+git
+cd test
+cd Documents
+list
+cd MacBook-Air
+mkdir test
+q
+quit
