@@ -1,0 +1,11 @@
+# initialize a new repo
+git init
+
+# add a new file
+git add <file>
+
+# view the staging area
+git status
+
+# commit the staging area to the master
+git commit
